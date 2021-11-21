@@ -1,0 +1,30 @@
+.a{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+img{
+    width: 23%;
+    height: 180px;
+}
+.b{
+    display: inline-block;
+}
+.c{
+    float: right;
+}
+.d{
+    width: 30%;
+    height: 150px;
+    border: 2px solid;
+}
+.e{
+    border: 2px solid black;
+    display: inline-block;
+    float: none;
+    padding-left: 3%;
+}
+.f{
+    float: right;
+    width: 15%;
+    height: 20%;
+}
